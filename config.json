@@ -1,9 +1,0 @@
-{
-  "jobName": "Example Job",
-  "lineupNames": ["A01", "A02", "B01"],
-  "pduConfigs": [[{}, {}], [{}, {}], [{}, {}]],
-  "pduMainBreakerTrip": 996,
-  "pduMainVoltage": 480,
-  "subfeedBreakerTrip": 600,
-  "subfeedVoltage": 415
-}
